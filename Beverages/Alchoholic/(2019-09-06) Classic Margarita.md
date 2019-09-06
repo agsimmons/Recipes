@@ -7,4 +7,4 @@ Source: https://www.seriouseats.com/recipes/2015/04/classic-margarita-recipe-teq
  3/4oz Lime Juice
 
  ## Directions
-
+Mix ingredients and serve with ice.
