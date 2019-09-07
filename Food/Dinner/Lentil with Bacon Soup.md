@@ -1,5 +1,4 @@
 # Lentil with Bacon Soup
-
 Source: http://www.thecookingguy.com/cookbook/lentil-with-bacon-soup  
 
 ## Ingredients
