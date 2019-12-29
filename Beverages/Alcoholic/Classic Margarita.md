@@ -1,10 +1,10 @@
- # Classic Margarita
+# Classic Margarita
 Source: https://www.seriouseats.com/recipes/2015/04/classic-margarita-recipe-tequila-cocktail.html
 
- ## Ingredients
- 2oz Blanco Tequila
- 1oz Triple sec
- 3/4oz Lime Juice
+## Ingredients
+* 2oz Blanco Tequila
+*  1oz Triple sec
+*  3/4oz Lime Juice
 
- ## Directions
-Mix ingredients and serve with ice.
+## Directions
+1. Mix ingredients and serve with ice.

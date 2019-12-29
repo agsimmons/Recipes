@@ -2,15 +2,15 @@
 Source: https://www.food.com/recipe/mixed-berry-muffins-73623#activity-feed
 
 ## Ingredients
-- 2 cups all-purpose flour
-- 3/4 cup sugar
-- 2 1/2 teaspoons baking powder
-- 1/4 teaspoon baking soda
-- 1/4 teaspoon salt
-- 1 cup milk
-- 1/2 cup vegetable oil
-- 2 large eggs
-- 1 1/3 cups fresh berries
+* 2 cups all-purpose flour
+* 3/4 cup sugar
+* 2 1/2 teaspoons baking powder
+* 1/4 teaspoon baking soda
+* 1/4 teaspoon salt
+* 1 cup milk
+* 1/2 cup vegetable oil
+* 2 large eggs
+* 1 1/3 cups fresh berries
 
 ## Directions
 1. Position a rack in the center of the oven and preheat to 400°F.

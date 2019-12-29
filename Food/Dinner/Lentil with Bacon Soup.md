@@ -2,15 +2,15 @@
 Source: http://www.thecookingguy.com/cookbook/lentil-with-bacon-soup  
 
 ## Ingredients
-- 1/2 pound bacon, diced 
-- 1/2 large yellow onion, diced 
-- 1 celery stalk, diced 
-- 1 carrot, diced 
-- 1/2 teaspoon cumin 
-- 6+ cups chicken stock
-- 1 cup lentils, rinsed
-- Kosher salt (about 1/2 teaspoon) & 5 grinds fresh ground pepper
-- Chopped cilantro for garnish
+* 1/2 pound bacon, diced 
+* 1/2 large yellow onion, diced 
+* 1 celery stalk, diced 
+* 1 carrot, diced 
+* 1/2 teaspoon cumin 
+* 6+ cups chicken stock
+* 1 cup lentils, rinsed
+* Kosher salt (about 1/2 teaspoon) & 5 grinds fresh ground pepper
+* Chopped cilantro for garnish
 
 ## Directions
 1. Cook bacon in a large pot until halfway to being crispy

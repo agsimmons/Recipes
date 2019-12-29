@@ -2,20 +2,20 @@
 Source: https://www.allrecipes.com/recipe/103218/chicken-and-chinese-vegetable-stir-fry/
 
 ## Ingredients
-- 14 oz skinless, boneless chicken breast - cut into bite-size pieces
-- 1/2 cup oyster sauce
-- 2 tablespoons soy sauce
-- 3 tablespoons vegetable oil
-- 2 cloves garlic, minced
-- 1 large onion, chopped
-- 1/2 cup water
-- 1 teaspoon ground black pepper
-- 1 teaspoon white sugar
-- 1 (8 oz) can sliced water chestnuts, drained
-- 1 cup snow peas
-- 1 small head broccoli, cut into florets
-- 3 tablespoons cornstarch
-- 1/4 cup water
+* 14 oz skinless, boneless chicken breast - cut into bite-size pieces
+* 1/2 cup oyster sauce
+* 2 tablespoons soy sauce
+* 3 tablespoons vegetable oil
+* 2 cloves garlic, minced
+* 1 large onion, chopped
+* 1/2 cup water
+* 1 teaspoon ground black pepper
+* 1 teaspoon white sugar
+* 1 (8 oz) can sliced water chestnuts, drained
+* 1 cup snow peas
+* 1 small head broccoli, cut into florets
+* 3 tablespoons cornstarch
+* 1/4 cup water
 
 ## Directions
 1. Combine the chicken, oyster sauce, and soy sauce in a mixing bowl until the chicken is evenly coated with the sauce; set aside.

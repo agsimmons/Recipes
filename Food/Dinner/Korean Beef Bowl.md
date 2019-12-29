@@ -2,16 +2,16 @@
 Source: https://damndelicious.net/2013/07/07/korean-beef-bowl/
 
 ## Ingredients
-- 1/4 cup brown sugar, packed
-- 1/4 cup reduced sodium soy sauce
-- 2 teaspoons sesame oil
-- 1/2 teaspoon crushed red-pepper flakes, or more to taste
-- 1/4 teaspoon ground ginger
-- 1 tablespoon vegetable oil
-- 3 cloves garlic, minced
-- 1 pound ground beef
-- 2 green onions, thinly sliced
-- 1/4 teaspoon sesame seeds
+* 1/4 cup brown sugar, packed
+* 1/4 cup reduced sodium soy sauce
+* 2 teaspoons sesame oil
+* 1/2 teaspoon crushed red-pepper flakes, or more to taste
+* 1/4 teaspoon ground ginger
+* 1 tablespoon vegetable oil
+* 3 cloves garlic, minced
+* 1 pound ground beef
+* 2 green onions, thinly sliced
+* 1/4 teaspoon sesame seeds
 
 ## Directions
 1. In a small bowl, whisk together brown sugar, soy sauce, sesame oil, red pepper flakes and ginger.

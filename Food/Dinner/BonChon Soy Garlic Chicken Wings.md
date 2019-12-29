@@ -2,7 +2,6 @@
 Source: https://www.pepper.ph/bonchon-soy-garlic-chicken-wings/ 
 
 ## Ingredients
-
 ### Double-Fried Chicken
 * 1/2 kilo Bounty Fresh chicken wings
 * salt and pepper, to season

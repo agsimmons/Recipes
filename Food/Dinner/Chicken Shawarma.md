@@ -2,35 +2,35 @@
 Source: https://www.foodnetwork.com/recipes/jeff-mauro/chicken-shawarma-with-tomato-cucumber-relish-and-tahini-sauce-2282196
 
 ## Ingredients
-Shawarma:
-- 1 1/2 teaspoons ground cumin
-- 1 1/2 teaspoons paprika
-- 1/4 teaspoon ground allspice
-- 1/4 teaspoon chili powder
-- 1 clove garlic, grated
-- 1 1/2 lbs skinned and deboned chicken thighs, cut into 1 inch strips
-- 3 1/2 tablespoons extra-virgin olive oil
-- Kosher salt  
+### Shawarma:
+* 1 1/2 teaspoons ground cumin
+* 1 1/2 teaspoons paprika
+* 1/4 teaspoon ground allspice
+* 1/4 teaspoon chili powder
+* 1 clove garlic, grated
+* 1 1/2 lbs skinned and deboned chicken thighs, cut into 1 inch strips
+* 3 1/2 tablespoons extra-virgin olive oil
+* Kosher salt  
 
-Tomato Cucumber Relish:
-- 2 tablespoons quality olive oil
-- 2 teaspoons apple cider vinegar or white balsamic vinegar
-- 1 teaspoon dried oregano
-- 2 Roma tomatoes, chopped
-- 1 English cucumber, chopped
-- 1 clove garlic, grated
-- 1 lemon, juiced
-- 1/2 small red onion, minced
-- Handful fresh parsley leaves, chopped
-- Kosher salt and freshly ground black pepper  
+### Tomato Cucumber Relish:
+* 2 tablespoons quality olive oil
+* 2 teaspoons apple cider vinegar or white balsamic vinegar
+* 1 teaspoon dried oregano
+* 2 Roma tomatoes, chopped
+* 1 English cucumber, chopped
+* 1 clove garlic, grated
+* 1 lemon, juiced
+* 1/2 small red onion, minced
+* Handful fresh parsley leaves, chopped
+* Kosher salt and freshly ground black pepper  
 
-Tahini Sauce
-- 1/4 cup tahini paste
-- 1 tablespoon extra-virgin olive oil
-- 1/2 lemon, juiced
-- Kosher salt
-- Four 6-inch store-bought white pita pockets
-- Olive oil
+### Tahini Sauce
+* 1/4 cup tahini paste
+* 1 tablespoon extra-virgin olive oil
+* 1/2 lemon, juiced
+* Kosher salt
+* Four 6-inch store-bought white pita pockets
+* Olive oil
 
 ## Directions
 1. For the shawarma: Mix the cumin, paprika, allspice, chili powder and garlic together. Place the chicken inside a resealable plastic bag with the olive oil. Add the spice mixture and rub in until fully incorporated. Seal that bag and place it into the refrigerator to marinate for at least 30 minutes.

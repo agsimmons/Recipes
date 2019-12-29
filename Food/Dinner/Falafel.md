@@ -2,22 +2,22 @@
 Source: https://www.epicurious.com/recipes/food/views/my-favorite-falafel-231755
 
 ## Ingredients
-- 1 cup dried chickpeas
-- 1/2 large onion, roughly chopped (about 1 cup)
-- 2 tablespoons finely chopped fresh parsley
-- 2 tablespoons finely chopped fresh cilantro
-- 1 teaspoon salt
-- 1/2-1 teaspoon dried hot red pepper
-- 4 cloves of garlic
-- 1 teaspoon cumin
-- 1 teaspoon baking powder
-- 4-6 tablespoons flour
-- Soybean or vegetable oil for frying
-- Chopped tomato for garnish
-- Diced onion for garnish
-- Diced green bell pepper for garnish
-- Tahina sauce
-- Pita bread
+* 1 cup dried chickpeas
+* 1/2 large onion, roughly chopped (about 1 cup)
+* 2 tablespoons finely chopped fresh parsley
+* 2 tablespoons finely chopped fresh cilantro
+* 1 teaspoon salt
+* 1/2-1 teaspoon dried hot red pepper
+* 4 cloves of garlic
+* 1 teaspoon cumin
+* 1 teaspoon baking powder
+* 4-6 tablespoons flour
+* Soybean or vegetable oil for frying
+* Chopped tomato for garnish
+* Diced onion for garnish
+* Diced green bell pepper for garnish
+* Tahina sauce
+* Pita bread
 
 ## Directions
 1. Put the chickpeas in a large bowl and add enough cold water to cover them by at least 2 inches. Let soak overnight, then drain. Or use canned chickpeas, drained.
